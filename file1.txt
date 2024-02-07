@@ -8,5 +8,14 @@ Git Merge
 Git Rebase
 Git Clone
 Git Cherrypick
-Git Reset
+Git Resetgit 
+
+
+Git log
+Git status
+Git branch
+Git add .
+Git commit -m "commit changes"
+Git remote add origin https://github.com/dp857861/Images.git
+Git pudh -u origin master
 
