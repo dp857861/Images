@@ -7,4 +7,6 @@ Git Push
 Git Merge
 Git Rebase
 Git Clone
+Git Cherrypick
+Git Reset
 
